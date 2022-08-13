@@ -1,10 +1,11 @@
 # PacMen
-This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Javascript, CSS, and HTML are combined to create an interactive page where the user can add as many PacMen as they would like, and make them all move indepently once the Start button is clicked. 
+This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Javascript, CSS, and HTML are combined to create an interactive page where the user can add as many PacMen as they would like, and make them all move indepently once the Start Game button is clicked. 
 
 <h2>To run:</h2>
+Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/PacMen/. Press Add Pacman, then press Start Game to see them move!
 
-
-
+<h2>Roadmap of future improvements:</h2>
+I will eventually return to this code to further improve the styling of the buttons. I also plan to add some ghosts that will populate alongside the Pacmen. 
 
 <h2>License</h2>
 MIT License
