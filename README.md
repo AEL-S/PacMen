@@ -1,4 +1,7 @@
 # PacMen
+This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Javascript, CSS, and HTML are combined to create an interactive page where the user can add as many PacMen as they would like, and make them all move indepently once the Start button is clicked. 
+
+<h2>To run:</h2>
 
 
 
