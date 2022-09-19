@@ -10,7 +10,7 @@ Everything required to run this project is in this repository. You're welcome to
 I will eventually return to this code to further improve the styling of the buttons. I also plan to add some ghosts that will populate alongside the Pacmen. 
 
 <h2>Support:</h2>
-Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
+Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
 
 <h2>License</h2>
 MIT License
